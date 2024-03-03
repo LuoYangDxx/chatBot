@@ -32,5 +32,5 @@ Luo, Y., Wei, Z., Xu, G., Li, Z., Xie, Y., & Yin, Y. (2024). Enhancing E-commerc
 2.
 3.
 4.
-5.
+5. [Ying Xie](https://github.com/Florax1218)
 6.
