@@ -1,15 +1,21 @@
-# Enhancing E-commerce Recommendations: Unveiling Insights from Customer Reviews with BERTFusionDNN
+# Enhancing E-commerce Chatbots with Falcon-7B and 16-bit Full Quantization
 
 ## Abstract
-In the domain of e-commerce, customer reviews wield significant influence over business strategies. Despite the existence of various recommendation methodologies like collaborative filtering and deep learning, they often encounter difficulties in accurately analyzing sentiment and semantics within customer feedback. Addressing these challenges headon, this paper introduces BERTFusionDNN, a novel framework merging BERT for extracting textual features and a Deep Neural Network for integrating numerical features. We assess the efficacy of our approach using a Women Clothing ECommerce dataset, benchmarking it against established techniques. Our method adeptly extracts valuable insights from customer reviews, fortifying e-commerce recommendation systems by surmounting barriers associated with deciphering both textual nuances and numerical intricacies. Through this endeavor, we pave the way for more robust and effective strategies in leveraging customer feedback to optimize e-commerce experiences and drive business success.
+E-commerce chatbots play a crucial role in customer service but often struggle with understanding complex
+queries. This study introduces a breakthrough approach leveraging the Falcon-7B model, a state-of-the-art Large
+Language Model (LLM) with 7 billion parameters. Trained on a vast dataset of 1,500 billion tokens from RefinedWeb and
+curated corpora, the Falcon-7B model excels in natural language understanding and generation. Notably, its 16-bit full
+quantization transformer ensures efficient computation without compromising scalability or performance. By harnessing
+cutting-edge machine learning techniques, our method aims to redefine e-commerce chatbot systems, providing businesses
+with a robust solution for delivering personalized customer experiences.
 
 ## Citation
 ### APA
 ```
 Luo, Y., Wei, Z., Xu, G., Li, Z., Xie, Y., & Yin, Y. (2024). Enhancing E-commerce Chatbots with Falcon-7B and 16-bit Full Quantization. Journal of Theory and Practice of Engineering Science, 4(02), 52-57.
 ```
-### BIB
 
+### BIB
 ```
 @article{luo2024enhancing,
   title={Enhancing E-commerce Chatbots with Falcon-7B and 16-bit Full Quantization},
@@ -21,3 +27,10 @@ Luo, Y., Wei, Z., Xu, G., Li, Z., Xie, Y., & Yin, Y. (2024). Enhancing E-commerc
   year={2024}
 }
 ```
+## Authors
+1. [Yang Luo](https://github.com/LuoYangDxx)
+2.
+3.
+4.
+5.
+6.
