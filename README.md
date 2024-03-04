@@ -31,6 +31,6 @@ Luo, Y., Wei, Z., Xu, G., Li, Z., Xie, Y., & Yin, Y. (2024). Enhancing E-commerc
 1. [Yang Luo](https://github.com/LuoYangDxx)
 2.
 3.
-4.
+4. [Zhengning Li](https://github.com/jim9586)
 5. [Ying Xie](https://github.com/Florax1218)
 6.
