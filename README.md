@@ -29,7 +29,7 @@ Luo, Y., Wei, Z., Xu, G., Li, Z., Xie, Y., & Yin, Y. (2024). Enhancing E-commerc
 ```
 ## Authors
 1. [Yang Luo](https://github.com/LuoYangDxx)
-2.
+2. [Zibu Wei](https://github.com/dominik024)
 3. [Guokun Xu](https://github.com/Matthewave)
 4. [Zhengning Li](https://github.com/jim9586)
 5. [Ying Xie](https://github.com/Florax1218)
